@@ -1,0 +1,35 @@
+:root {
+  --vp-c-brand: #0082ce;
+  --vp-c-brand-1: #0082ce;
+  --vp-c-brand-2: #339bda;
+  --vp-c-brand-3: #66b4e5;  
+}
+
+.VPButton.brand {
+  border-color: var(--vp-c-brand-1) !important;
+  background-color: var(--vp-c-brand-1) !important;
+  color: white !important;
+}
+
+.VPButton.brand:hover {
+  border-color: var(--vp-c-brand-2) !important;
+  background-color: var(--vp-c-brand-2) !important;
+}
+
+.vp-doc a {
+  text-decoration: none;
+  font-weight: 500;
+  color: var(--vp-c-brand);
+}
+
+.vp-doc a:hover {
+  text-decoration: underline;
+}
+
+.custom-block.tip {
+  border-color: var(--vp-c-brand);
+}
+
+.custom-block.important {
+  border-color: #4285f4;
+}
