@@ -4,17 +4,7 @@ La plataforma de **Open Badges Platfom** está diseñada bajo un modelo de arqui
 
 ## Vista General
 
-El sistema se divide en tres capas principales que permiten una escalabilidad sencilla y un mantenimiento independiente:
-
-```mermaid
-graph TD
-    A[Institución] -->|OAuth| B(Nuxt 3 Frontend)
-    B -->|API Request| C{Quarkus Backend}
-    C -->|Bake Metadata| D[PNG/SVG Asset]
-    C -->|Persist| E[(SQLite)]
-    D -->|Download| F[Mochila Digital del Usuario]
-
-```
+El sistema se divide en tres capas principales que permiten una escalabilidad sencilla y un mantenimiento independiente.
 
 ### 1. Frontend (User Interface)
 Construido con **Nuxt 3**, se encarga de la experiencia del usuario, la gestión de sesiones mediante OAuth 2.0 y la visualización de las insignias. Es una Single Page Application (SPA) optimizada para ser ligera y rápida.

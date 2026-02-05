@@ -1,8 +1,6 @@
 import { defineConfig } from 'vitepress'
-import { withMermaid } from 'vitepress-plugin-mermaid'
 
-export default withMermaid(
-  defineConfig({
+export default defineConfig({
     title: "Open Badges Platfom",
     description: "Documentación oficial de la plataforma de insignias digitales",
     lang: 'es-MX',
@@ -77,4 +75,3 @@ export default withMermaid(
     mermaid: {
     }
   })
-)
