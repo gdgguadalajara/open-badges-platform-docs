@@ -1,6 +1,6 @@
 # Arquitectura del Sistema
 
-La plataforma de **Open Badges Platfom** está diseñada bajo un modelo de arquitectura desacoplada, priorizando la portabilidad, la seguridad de los datos y el cumplimiento de estándares internacionales de insignias digitales.
+La plataforma de **Open Badges Platform** está diseñada bajo un modelo de arquitectura desacoplada, priorizando la portabilidad, la seguridad de los datos y el cumplimiento de estándares internacionales de insignias digitales.
 
 ## Vista General
 

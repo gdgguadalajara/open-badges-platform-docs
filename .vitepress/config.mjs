@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-    title: "Open Badges Platfom",
+    title: "Open Badges Platform",
     description: "Documentación oficial de la plataforma de insignias digitales",
     lang: 'es-MX',
     appearance: true,
@@ -14,7 +14,7 @@ export default defineConfig({
       logo: {
         light: 'favicon.png',
         dark: 'favicon.png',
-        alt: 'Open Badges Platfom'
+        alt: 'Open Badges Platform'
       },
 
       nav: [

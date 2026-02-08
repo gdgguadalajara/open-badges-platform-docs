@@ -1,6 +1,6 @@
 # Preguntas Frecuentes (FAQ)
 
-Aquí encontrarás respuestas a las dudas más comunes sobre el uso, despliegue y filosofía de la plataforma de **Open Badges Platfom**.
+Aquí encontrarás respuestas a las dudas más comunes sobre el uso, despliegue y filosofía de la plataforma de **Open Badges Platform**.
 
 ## 🏢 Sobre la Organización
 

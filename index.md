@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "Open Badges Platfom"
+  name: "Open Badges Platform"
   text: "Reconocimiento con Identidad"
   tagline: Plataforma de emisión y verificación de insignias digitales para organizaciones.
   image:

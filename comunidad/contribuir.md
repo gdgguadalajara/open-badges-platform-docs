@@ -1,6 +1,6 @@
 # Guía de Contribución
 
-Colaborar en **Open Badges Platfom** es una excelente forma de apoyar a la comunidad y mejorar una herramienta diseñada para ser universal y soberana.
+Colaborar en **Open Badges Platform** es una excelente forma de apoyar a la comunidad y mejorar una herramienta diseñada para ser universal y soberana.
 
 Para mantener la coherencia y calidad del proyecto, nos basamos en los documentos oficiales que encontrarás en la raíz de nuestro repositorio:
 
